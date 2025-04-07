@@ -1,0 +1,8 @@
+{
+  "minVersion": "0.8",
+  "compatibilityLevel": "JAVA_21",
+  "package": "net.ctrlaltmilk.globaloptions.mixin",
+  "client": [
+    "OptionsMixin"
+  ]
+}
