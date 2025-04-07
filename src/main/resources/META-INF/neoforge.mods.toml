@@ -6,6 +6,11 @@ license = "MPL-2.0"
 [[mods]]
 modId = "globaloptions"
 version = "${file.jarVersion}"
+displayName = "Global Options"
+authors = "ctrlaltmilk"
+description = """
+Synchronize your options across all your Minecraft instances.
+"""
 
 [[mixins]]
 config = "globaloptions.mixins.json"
